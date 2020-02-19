@@ -1,26 +1,26 @@
-Rank,2014,2015,2016,2017,2018,2019
-1,Copenhagen,Tokyo,Tokyo,Tokyo,Munich,Zurich
-2,Tokyo,Vienna,Berlin,Vienna,Tokyo,Tokyo
-3,Melbourne,Berlin,Vienna,Munich,Vienna,Munich
-4,Stockholm,Melbourne,Copenhagen,Berlin,Zurich,Copenhagen
-5,Helsinki,Sydney,Munich,Melbourne,Copenhagen,Vienna
-6,Vienna,Stockholm,Melbourne,Copenhagen,Berlin,Helsinki
-7,Zurich,Vancouver,Fukuoka,Sydney,Madrid,Hamburg
-8,Munich,Helsinki,Sydney,Zurich,Hamburg,Madrid
-9,Kyoto,Munich,Kyoto,Hamburg,Melbourne,Berlin
-10,Fukuoka,Copenhagen,Stockholm,Madrid,Helsinki,Lisbon
-11,Sydney,Zurich,Vancouver,Stockholm,Stockholm,Melbourne
-12,Auckland,Fukuoka,Helsinki,Kyoto,Lisbon,Stockholm
-13,Hong Kong,Singapore,Zurich,Helsinki,Sydney,Sydney
-14,Berlin,Kyoto,Madrid,Fukuoka,HongKong,Amsterdam
-15,Vancouver,Paris,Hamburg,HongKong,Vancouver,Vancouver
-16,Singapore,Madrid,Lisbon,Lisbon,Amsterdam,HongKong
-17,Madrid,Auckland,Dusseldorf,Barcelona,Kyoto,Kyoto
-18,Paris,Lisbon,Hong Kong,Vancouver,Dusseldorf,Barcelona
-19,Amsterdam,Hong Kong,Barcelona,Dusseldorf,Barcelona,Paris
-20,Hamburg,Amsterdam,Singapore,Amsterdam,Paris,Dusseldorf
-21,Barcelona,Hamburg,Amsterdam,Singapore,Singapore,Auckland
-22,Lisbon,Geneva,Auckland,Auckland,Fukuoka,Fukuoka
-23,Portland,Oslo,Honolulu,Brisbane,Auckland,Brisbane
-24,Oslo,Barcelona,Portland,Portland,Brisbane,Oslo
-25,Brisbane,Portland,Montreal,Oslo,Oslo,Singapore
+Rank,2009,2010,2012,2013,2014,2015,2016,2017,2018,2019
+1,Zurich,Munich,Zurich,Copenhagen,Copenhagen,Tokyo,Tokyo,Tokyo,Munich,Zurich
+2,Copenhagen,Copenhagen,Helsinki,Melbourne,Tokyo,Vienna,Berlin,Vienna,Tokyo,Tokyo
+3,Tokyo,Zurich,Copenhagen,Helsinki,Melbourne,Berlin,Vienna,Munich,Vienna,Munich
+4,Munich,Tokyo,Vienna,Tokyo,Stockholm,Melbourne,Copenhagen,Berlin,Zurich,Copenhagen
+5,Helsinki,Helsinki,Munich,Vienna,Helsinki,Sydney,Munich,Melbourne,Copenhagen,Vienna
+6,Stockholm,Stockholm,Melbourne,Zurich,Vienna,Stockholm,Melbourne,Copenhagen,Berlin,Helsinki
+7,Vienna,Paris,Tokyo,Stockholm,Zurich,Vancouver,Fukuoka,Sydney,Madrid,Hamburg
+8,Paris,Vienna,Sydney,Munich,Munich,Helsinki,Sydney,Zurich,Hamburg,Madrid
+9,Melbourne,Melbourne,Auckland,Sydney,Kyoto,Munich,Kyoto,Hamburg,Melbourne,Berlin
+10,Berlin,Madrid,Stockholm,Auckland,Fukuoka,Copenhagen,Stockholm,Madrid,Helsinki,Lisbon
+11,Honolulu,Berlin,Kyoto,Hong Kong,Sydney,Zurich,Vancouver,Stockholm,Stockholm,Melbourne
+12,Madrid,Sydney,Fukuoka,Fukuoka,Auckland,Fukuoka,Helsinki,Kyoto,Lisbon,Stockholm
+13,Sydney,Honolulu,Hong Kong,Kyoto,Hong Kong,Singapore,Zurich,Helsinki,Sydney,Sydney
+14,Vancouver,Fukuoka,Paris,Paris,Berlin,Kyoto,Madrid,Fukuoka,HongKong,Amsterdam
+15,Barcelona,Geneva,Singapore,Singapore,Vancouver,Paris,Hamburg,HongKong,Vancouver,Vancouver
+16,Fukuoka,Vancouver,Hamburg,Hamburg,Singapore,Madrid,Lisbon,Lisbon,Amsterdam,HongKong
+17,Oslo,Barcelona,Honolulu,Honolulu,Madrid,Auckland,Dusseldorf,Barcelona,Kyoto,Kyoto
+18,Singapore,Oslo,Berlin,Madrid,Paris,Lisbon,Hong Kong,Vancouver,Dusseldorf,Barcelona
+19,Montreal,Montreal,Vancouver,Vancouver,Amsterdam,Hong Kong,Barcelona,Dusseldorf,Barcelona,Paris
+20,Auckland,Auckland,Madrid,Berlin,Hamburg,Amsterdam,Singapore,Amsterdam,Paris,Dusseldorf
+21,Amsterdam,Singapore,Barcelona,Barcelona,Barcelona,Hamburg,Amsterdam,Singapore,Singapore,Auckland
+22,Kyoto,Portland,Portland,Amsterdam,Lisbon,Geneva,Auckland,Auckland,Fukuoka,Fukuoka
+23,Hamburg,Kyoto,San Francisco,Portland,Portland,Oslo,Honolulu,Brisbane,Auckland,Brisbane
+24,Geneva,Hamburg,Montreal,San Francisco,Oslo,Barcelona,Portland,Portland,Brisbane,Oslo
+25,Lisbon,Lisbon,Geneva,Dusseldorf,Brisbane,Portland,Montreal,Oslo,Oslo,Singapore
